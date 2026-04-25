@@ -1,3 +1,31 @@
+
+
+🌍 Dành cho các bạn yêu thích lĩnh vực tình báo địa không gian (GeoINT) hay quan tâm vấn đề kinh tế tầm thấp đang là xu hướng của chính phủ Việt Nam, dự án nguồn mở GeoAI – ứng dụng AI vào phân tích ảnh viễn thám tự động
+
+GeoAI là dự án mã nguồn mở giúp kết hợp AI với dữ liệu địa lý như ảnh vệ tinh, drone, GIS và remote sensing.
+
+Thay vì phải tự ghép nhiều tool phức tạp, GeoAI cung cấp workflow hoàn chỉnh từ:
+
+* tải dữ liệu Sentinel, Landsat…
+* chuẩn bị dataset
+* train model AI
+* detection / segmentation
+* visualization bản đồ
+* export GeoJSON, Shapefile
+* tích hợp trực tiếp vào QGIS Plugin
+
+Điểm mạnh nhất là có thể chạy AI ngay trong QGIS mà không cần code Python.
+
+Use case rất thực tế:
+
+* phát hiện building footprint
+* giám sát rừng
+* flood monitoring
+* urban planning
+* nông nghiệp chính xác
+* disaster response
+
+
 # GeoAI: Artificial Intelligence for Geospatial Data
 
 [![image](https://img.shields.io/pypi/v/geoai-py.svg)](https://pypi.python.org/pypi/geoai-py)
